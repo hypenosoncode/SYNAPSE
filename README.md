@@ -34,19 +34,19 @@ Synapse IoT Hub features outputs that enable sensor usage and can easily integra
 
 # :camera: IMAGES
 # :large_orange_diamond: 3D RENDER
-![SYNAPSE_RENDER](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/f6609c76-1dd5-40ad-8cd6-628dfea3ac6a)
-![SYNAPSE_RENDER_BACK](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/275f2897-7bc4-42f0-b6f6-0f962d6a6069)
+![1](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/e7229cbc-3f74-45fb-b929-0fd121d7d5fb)
+![2](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/25d7e897-af7c-485f-90c8-ae2acc3a36c2)
 
 # :large_orange_diamond: REAL PCB
-![PCB_TOP](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/2c1ff8d3-3838-4706-ba6a-3c1dade97023)
-![PCB_BOTTOM](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/b0e06abf-7859-40cc-900b-3bab4d19494d)
+![3](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/56ff0ab9-9eec-48b2-90da-c2ec57998e30)
+![4](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/37d134ce-9a31-4c9c-bf25-dc20db25c11d)
 
 # :large_orange_diamond: SMD PLACEMENT & STENCIL
-![STENCIL_SOLDER](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/406297bc-a9af-4210-8656-34bd1fcd38cd)
-![SMD_PLACEMENT](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/8ad9ae51-fce4-4496-92e7-c8f70661082b)
+![5](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/b92ca729-8671-4e7e-9790-0a6013e8bcf9)
+![6](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/cfa1f257-1981-4067-a041-9374e504ce33)
 
 # :large_orange_diamond: FINAL PROJECT
-![FINISH_PCB](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/2398f7fc-3e46-4e30-a122-08d1f4f4a552)
+![7](https://github.com/hypenosoncode/SYNAPSE/assets/74931027/82286a40-e7ab-47d5-a68f-201e374a3db5)
 **...This PCB designed by Altium Designer...**
 
 # :mailbox: CONTACT ME
